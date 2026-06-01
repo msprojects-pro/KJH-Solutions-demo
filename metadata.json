@@ -1,0 +1,6 @@
+{
+  "name": "KJHSolutions - Property Maintenance Bristol",
+  "description": "Professional property maintenance and home improvement services in Bristol, UK. Specializing in electrical, painting, carpentry, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
